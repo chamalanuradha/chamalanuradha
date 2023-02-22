@@ -1,5 +1,5 @@
 ![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)
-<h1 align="center">Hi 👋, I'm Chamal Anuradha</h1>
+<h1 align="center">Hi👋, I'm Chamal Anuradha</h1>
 <h3 align="center">A Excited web developer from SriLanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
