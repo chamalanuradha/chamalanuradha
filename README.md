@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **React,Sql**
 
+- 💬 W3school profile on [https://profile.w3schools.com/profile](https://profile.w3schools.comprofile)
+
 - 📫 How to reach me **chamalanuradha98765@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFQt_dIDIE/XwcVc7uPdozyyGrduDbvhw/view?utm_content=DAFQt_dIDIE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFQt_dIDIE/XwcVc7uPdozyyGrduDbvhw/view?utm_content=DAFQt_dIDIE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
