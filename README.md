@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/chamal_98" target="blank"><img src="https://img.shields.io/twitter/follow/chamal_98?logo=twitter&style=for-the-badge" alt="chamal_98" /></a> </p>
 
-- 📝 I regularly write articles on [chamal67.wordpress.com](chamal67.wordpress.com)
+- 📝 I regularly write articles on [https://chamal67.wordpress.com](chamal67.wordpress.com)
 
 - 💬 Ask me about **React,Sql**
 
-- 💬 W3school profile on [https://profile.w3schools.com/profile](https://profile.w3schools.comprofile)
+- 💬 W3school profile [https://profile.w3schools.com/profile](https://profile.w3schools.comprofile)
 
 - 📫 How to reach me **chamalanuradha98765@gmail.com**
 
