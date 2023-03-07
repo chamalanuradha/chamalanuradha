@@ -9,9 +9,7 @@
 
 - 📝 I regularly write articles on [https://chamal67.wordpress.com](chamal67.wordpress.com)
 
-- 💬 Ask me about **React,Sql**
-
-- 💬 W3school profile [https://profile.w3schools.com/profile](https://profile.w3schools.comprofile)
+- 💬 Ask me about **React,SQL,Java,Laravel,MongoDB,Node**
 
 - 📫 How to reach me **chamalanuradha98765@gmail.com**
 
@@ -24,6 +22,7 @@
 <a href="https://fb.com/chamal anuradha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chamal anuradha" height="30" width="40" /></a>
 <a href="https://instagram.com/chamal_98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chamal_98" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chamalanuradha91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chamalanuradha91" height="30" width="40" /></a>
+<a href="https://profile.w3schools.comprofile" target="blank"><img align="center" src="https://media.licdn.com/dms/image/C4D0BAQHF7HLEYX6LSQ/company-logo_200_200/0/1607800000814?e=2147483647&v=beta&t=GKHAiWXada76R0r6gBhEGAr_3bVZjJPZmPDd5gdsLPM" alt="chamalanuradha91" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
