@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chamalanuradha98765@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFQt_dIDIE/XwcVc7uPdozyyGrduDbvhw/view?utm_content=DAFQt_dIDIE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFQt_dIDIE/XwcVc7uPdozyyGrduDbvhw/view?utm_content=DAFQt_dIDIE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [https://www.canva.com/design/DAFQt_dIDIE/sNg4jX6oXOBmQAsakU72Dw/edit?utm_content=DAFQt_dIDIE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFQt_dIDIE/sNg4jX6oXOBmQAsakU72Dw/edit?utm_content=DAFQt_dIDIE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
