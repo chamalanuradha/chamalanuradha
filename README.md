@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React,SQL,Java,Laravel,MongoDB,Node**
 
-- 📝 Personal website [https://zingy-crostata-8b63cc.netlify.app](https://zingy-crostata-8b63cc.netlify.app)
+- 📝 Personal website [www.chamal anuradha.lk](https://tranquil-monstera-1a5740.netlify.app/)
 
 - 📫 How to reach me **chamalanuradha98765@gmail.com**
 
