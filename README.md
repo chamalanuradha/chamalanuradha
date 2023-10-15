@@ -1,9 +1,11 @@
+<h1 align="center">Hi👋, I'm Chamal Anuradha</h1>
+<h3 align="center">A Excited Software Engineer from SriLanka</h3>
+
 <div align="center">
    <img align="center" alt="Coding" width="800" height="390" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 </div>
 
-<h1 align="center">Hi👋, I'm Chamal Anuradha</h1>
-<h3 align="center">A Excited Software Engineer from SriLanka</h3>
+
 
 <img align="right" width="400" src="https://img.freepik.com/premium-vector/computer-engineer-t-shirt-design_707675-196.jpg" alt="Centered Image">
 
