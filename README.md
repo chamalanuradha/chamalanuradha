@@ -1,6 +1,8 @@
-![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)
+<div align="center">
+    <img src="https://img.freepik.com/premium-vector/computer-engineer-t-shirt-design_707675-196.jpg" alt="Centered Image">
+</div>
 <h1 align="center">Hi👋, I'm Chamal Anuradha</h1>
-<h3 align="center">A Excited Web developer from SriLanka</h3>
+<h3 align="center">A Excited Software Engineer from SriLanka</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamalanuradha&label=Profile%20views&color=0e75b6&style=flat" alt="chamalanuradha" /> </p>
