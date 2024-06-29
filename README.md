@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **VueJs,TypeScript**
 
-- 👨‍💻 All of my projects are available at [[https://transcendent-sprinkles-532ccb.netlify.app](https://main--chamalanurdha.netlify.app/)
+- 👨‍💻 All of my projects are available at [chamalanuradha](https://main--chamalanurdha.netlify.app/)
 
 - 📝 I regularly write articles on [https://chamal67.wordpress.com](https://chamal67.wordpress.com)
 
