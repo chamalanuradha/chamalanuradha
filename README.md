@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/chamal_98" target="blank"><img src="https://img.shields.io/twitter/follow/chamal_98?logo=twitter&style=for-the-badge" alt="chamal_98" /></a> </p>
 
-- 🌱 I’m currently learning **VueJs,TypeScript**
+- 🌱 I’m currently learning **VueJs,TypeScript,Angular**
 
 - 👨‍💻 All of my projects are available at [chamalanuradha](https://main--chamalanurdha.netlify.app/)
 
