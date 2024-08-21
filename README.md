@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **chamalanuradha98765@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFbXNYUab0/SgrBI3oLp6QIWnzv6XywkQ/view?utm_content=DAFbXNYUab0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFbXNYUab0/SgrBI3oLp6QIWnzv6XywkQ/view?utm_content=DAFbXNYUab0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [My Resume](https://www.canva.com/design/DAGJyyb08UM/KSCMCWcNJ91CBGH0m1107Q/edit?utm_content=DAGJyyb08UM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
